@@ -1,0 +1,17 @@
+{
+	"ulid": "01GPCFQX0GN4XYBHZ48V1NYSAQ",
+	"minTime": 1673233305709,
+	"maxTime": 1673236800000,
+	"stats": {
+		"numSamples": 253117,
+		"numSeries": 867,
+		"numChunks": 2193
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01GPCFQX0GN4XYBHZ48V1NYSAQ"
+		]
+	},
+	"version": 1
+}

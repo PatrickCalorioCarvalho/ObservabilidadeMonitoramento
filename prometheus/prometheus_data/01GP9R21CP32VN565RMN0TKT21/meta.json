@@ -1,0 +1,17 @@
+{
+	"ulid": "01GP9R21CP32VN565RMN0TKT21",
+	"minTime": 1673158189382,
+	"maxTime": 1673164800000,
+	"stats": {
+		"numSamples": 91530,
+		"numSeries": 571,
+		"numChunks": 911
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01GP9R21CP32VN565RMN0TKT21"
+		]
+	},
+	"version": 1
+}

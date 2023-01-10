@@ -1,0 +1,17 @@
+{
+	"ulid": "01GPA7M46PT0MCETVKTCFVTYYP",
+	"minTime": 1673216984381,
+	"maxTime": 1673222400000,
+	"stats": {
+		"numSamples": 292557,
+		"numSeries": 877,
+		"numChunks": 2462
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01GPA7M46PT0MCETVKTCFVTYYP"
+		]
+	},
+	"version": 1
+}
